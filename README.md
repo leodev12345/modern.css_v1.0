@@ -2,9 +2,6 @@
 # modern.css_v1.0
 ## classes:
 
-# modern.css_framework_v0.1_BETA
-## classes:
-
 .bg-*color* - sets the background 
 
 avibile colors:
