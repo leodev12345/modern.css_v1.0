@@ -6,19 +6,19 @@
 
 avibile colors:
 
-red,green,blue,gray,lig(light gray),lg(light green),black,white,pink,purple,yellow,orange,lb(light blue).
+red,green,blue,gray,lig(light gray),lg(light green),black,white,pink,purple,yellow,orange,lb(light blue),brown.
 
 .*color* - sets the text or link color
 
 avibile colors:
 
-red,green,blue,gray,light-gray,light-green,black,white,pink,purple,yellow,orange,light-blue.
+red,green,blue,gray,light-gray,light-green,black,white,pink,purple,yellow,orange,light-blue,brown.
 
 .hr-*color* - sets hr element color
 
 avibile colors:
 
-red,green,blue,gray,lig(light gray),lg(light green),black,white,pink,purple,yellow,orange,lb(light blue).
+red,green,blue,gray,lig(light gray),lg(light green),black,white,pink,purple,yellow,orange,lb(light blue),brown.
 
 .modern-container - create black box with white text aligned to center
 
@@ -50,7 +50,7 @@ red,green,blue,gray,lig(light gray),lg(light green),black,white,pink,purple,yell
 
 avibile colors:
 
-red,green,blue,gray,lig(light gray),lg(light green),black,white,pink,purple,yellow,orange,lb(light blue).
+red,green,blue,gray,lig(light gray),lg(light green),black,white,pink,purple,yellow,orange,lb(light blue),brown.
 
 .hvr-bold - creates bold link when hoverd
 
@@ -66,7 +66,7 @@ red,green,blue,gray,lig(light gray),lg(light green),black,white,pink,purple,yell
 
 avibile colors:
 
-red,green,blue,gray,lig(light gray),lg(light green),black,white,pink,purple,yellow,orange,lb(light blue).
+red,green,blue,gray,lig(light gray),lg(light green),black,white,pink,purple,yellow,orange,lb(light blue),brown.
 
 .vis-bold - creates bold link when its visited
 
