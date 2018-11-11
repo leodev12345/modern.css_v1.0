@@ -77,3 +77,8 @@ red,green,blue,gray,lig(light gray),lg(light green),black,white,pink,purple,yell
 .vis-overline - creates overlined link when its visited
 
 .vis-line-thr - creates line through link when its visited
+
+### How to inport modern.css in your project
+#### 1.download modern.css go to modern.css_v1.0 > click download zip
+#### 2.create link to the file in your HTML file examle:
+#### 3.and you are ready!!!
